@@ -1,5 +1,5 @@
 _repo: Top-O-the-World-A-Once-Upon-a-Time-Tale_59182
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Mayer, Henry
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '26414'
     url: http://www.gutenberg.org/2009/agents/26414
+covers:
+- cover_type: archival
+  image_path: 59182-h/images/cover.jpg
 creator:
   author:
     agent_name: Swan, Mark E.
     gutenberg_agent_id: '50329'
     url: http://www.gutenberg.org/2009/agents/50329
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59182#Top-O-the-World-A-Once-Upon-a-Time-Tale
 gutenberg_issued: '2019-04-01'
 gutenberg_type: Text
 identifiers:
